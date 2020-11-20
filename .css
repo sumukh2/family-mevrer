@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: url("whitehatjr 512x512.png");
+}
+.heading{
+    width:80%;
+    font-size: 50px;
+}
+#camera{
+    border:2px dotted red;
+    width:350px;
+    height:350px;
+}
+.name_of_object{
+    color:rgb(180, 59, 180);
+}
+#result_object_name{
+    color:green;
+}
+#result_object_acc{
+    color:purple;
+}
